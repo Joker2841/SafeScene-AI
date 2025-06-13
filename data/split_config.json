@@ -1,0 +1,8 @@
+{
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15,
+    "random_seed": 42,
+    "stratify": true,
+    "notes": "Splits will be created during data processing phase"
+}
